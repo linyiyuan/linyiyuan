@@ -26,7 +26,7 @@ class Me
     const LEARNING = 'k8s';
 
     const TOOLS = [
-        'phpstorm', 'vscode', 'datagrip', 'typora', 'v2ray', 'transmit', 'termius'
+        'phpstorm', 'vscode', 'datagrip', 'typora', 'v2ray', 'transmit', 'termius', 'vim', 'markdown'
     ];
 
     const BLOG = 'http://www.linyiyuan.top';
