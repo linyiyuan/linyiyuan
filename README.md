@@ -14,6 +14,8 @@ class Me
     const SKILLS = [
         PHP::class,
         LARAVEL::class,
+        HYPERF::class,
+        SWOOLE:class,
         LIUNX::class,
         MYSQL::class,
         VUE::class,
