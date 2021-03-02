@@ -15,9 +15,10 @@ class Me
         PHP::class,
         LARAVEL::class,
         HYPERF::class,
-        SWOOLE:class,
-        LIUNX::class,
+        SWOOLE::class,
+        LINUX::class,
         MYSQL::class,
+        REDIS::class
         VUE::class,
         JAVASCRIPT::class,
         CSS::class,
@@ -25,7 +26,7 @@ class Me
         DOCKER::class,
     ];
 
-    const LEARNING = 'k8s';
+    const LEARNING = 'rabbitmq';
 
     const TOOLS = [
         'phpstorm', 'vscode', 'datagrip', 'typora', 'v2ray', 'transmit', 'termius', 'vim', 'markdown'
