@@ -37,6 +37,4 @@ class Me
     const COMPANY = 'Guangzhou express Tour';
 }
 ```
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linyiyuan)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=linyiyuan&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
