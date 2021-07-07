@@ -25,9 +25,6 @@ class Me
         HTML::class,
         DOCKER::class,
     ];
-
-    const LEARNING = 'rabbitmq';
-
     const TOOLS = [
         'phpstorm', 'vscode', 'datagrip', 'typora', 'v2ray', 'transmit', 'termius', 'vim', 'markdown'
     ];
@@ -37,4 +34,23 @@ class Me
     const COMPANY = 'Guangzhou express Tour';
 }
 ```
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=linyiyuan&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<table width="700px">
+<tr>
+<td align="center" valign="middle" width="50%">
+
+![linyiyuan's github stats](https://github-readme-stats.vercel.app/api?username=linyiyuan&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true)
+
+</td>
+<td align="center" valign="middle" width="50%">
+
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=linyiyuan&layout=compact)
+
+</td>
+</tr>
+</table>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/linyiyuan/count.svg" />
+</p>
