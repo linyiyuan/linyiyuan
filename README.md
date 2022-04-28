@@ -26,12 +26,12 @@ class Me
         DOCKER::class,
     ];
     const TOOLS = [
-        'phpstorm', 'vscode', 'datagrip', 'typora', 'v2ray', 'transmit', 'termius', 'vim', 'markdown'
+        'phpstorm', 'vscode', 'datagrip', 'typora', 'v2ray', 'transmit', 'termius', 'vim', 'markdown', 'supervisor'
     ];
 
     const BLOG = 'http://www.linyiyuan.top';
 
-    const COMPANY = 'Guangzhou express Tour';
+    const COMPANY = 'Bingo';
 }
 ```
 
