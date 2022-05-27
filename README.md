@@ -55,4 +55,4 @@ class Me
   <img src="https://profile-counter.glitch.me/linyiyuan/count.svg" />
 </p>
 
-[![github contribution grid snake animation](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake.svg)](https://github.com/sy-records)
+[![github contribution grid snake animation](https://raw.githubusercontent.com/linyiyuan/linyiyuan/output/github-contribution-grid-snake.svg)](https://github.com/linyiyuan)
