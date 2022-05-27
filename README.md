@@ -55,5 +55,5 @@ class Me
   <img src="https://profile-counter.glitch.me/linyiyuan/count.svg" />
 </p>
 
-![](https://raw.githubusercontent.com/linyiyuan/linyiyuan/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/linyiyuan/linyiyuan/master/assets/github-contribution-grid-snake.svg)
 
